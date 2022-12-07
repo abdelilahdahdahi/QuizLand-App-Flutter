@@ -1,2 +1,2 @@
 # Flutter-Quiz-App
-My first app made with Flutter &amp; Dart.
+My first app (quiz game) made with Flutter &amp; Dart.
