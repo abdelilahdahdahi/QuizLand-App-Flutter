@@ -8,14 +8,14 @@ class Result extends StatelessWidget {
 
   String get resultPhrase {
     var resultText = 'You did it!';
-    if (resultScore <= 8) {
-      resultText = 'You are awesome and innocent!';
-    } else if (resultScore <= 12) {
-      resultText = 'Pretty likeable!';
-    } else if (resultScore <= 16) {
-      resultText = 'You\'re strange';
+    if (resultScore == 3) {
+      resultText = 'Excellent!';
+    } else if (resultScore == 2) {
+      resultText = 'Good!';
+    } else if (resultScore == 1) {
+      resultText = 'Could be better!';
     } else {
-      resultText = 'You\'re so bad';
+      resultText = 'Don\'t skip Geography class!';
     }
     return resultText;
   }

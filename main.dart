@@ -9,7 +9,7 @@ import './result.dart';
 //  runApp(MyApp());
 //}
 
-// An alternative way to run MyApp:
+// A better practice to run MyApp:
 void main() => runApp(MyApp());
 
 class MyApp extends StatefulWidget {
@@ -25,30 +25,30 @@ class _MyAppState extends State<MyApp> {
     //List of Maps, List<Map>[]
     //Map is a data structure of {key:value}
     {
-      'questionText': 'What\'s your favorite color? ',
+      'questionText': 'What\'s the capital of Russia? ',
       'answers': [
-        {'text': 'Black', 'score': 10},
-        {'text': 'Red', 'score': 7},
-        {'text': 'Green', 'score': 3},
-        {'text': 'White', 'score': 1}
+        {'text': 'Sidney', 'score': 0},
+        {'text': 'Doha', 'score': 0},
+        {'text': 'Mumbai', 'score': 0},
+        {'text': 'Moscow', 'score': 1}
       ],
     },
     {
-      'questionText': 'What\'s your favorite film?',
+      'questionText': 'What\'s the capital of Morocco?',
       'answers': [
-        {'text': 'Apollo 11', 'score': 11},
-        {'text': 'Joker', 'score': 14},
-        {'text': 'Spiderman', 'score': 9},
-        {'text': '1917', 'score': 12}
+        {'text': 'Casablanca', 'score': 0},
+        {'text': 'Istanbul', 'score': 0},
+        {'text': 'Rabat', 'score': 1},
+        {'text': 'Marrakech', 'score': 0}
       ]
     },
     {
-      'questionText': 'What are you currently learning?',
+      'questionText': 'What\'s the capital of Ghana?',
       'answers': [
-        {'text': 'Flutter', 'score': 15},
-        {'text': 'Javascript', 'score': 11},
-        {'text': 'Python', 'score': 10},
-        {'text': 'PHP', 'score': 1}
+        {'text': 'Dakhla', 'score': 0},
+        {'text': 'Tripoli', 'score': 0},
+        {'text': 'Accra', 'score': 1},
+        {'text': 'Abidjan', 'score': 0}
       ]
     }
   ];
