@@ -3,7 +3,9 @@ My first ever app "QuizLand" made with Flutter &amp; Dart. <br>
 Inspired and supported by a Udemy course, I managed to learn Flutter basics and create this very simple app.
 
 The quiz contains only 3 questions about some country capitals which, based on your answers (right or false) you get 1 or 0 point. <br>
-Eventually you'll receive a feedback, if you answered all right 3/3: "Excellent", 2/3: "Good", 1/3: "Could be better", 0/3: "Don't skip Geography class!" xD
+Eventually you'll receive a feedback, if you answered all right 3/3: "Excellent", 2/3: "Good", 1/3: "Could be better", 0/3: "Don't skip Geography class!" xD <br>
+Then you can restart the quiz, but the questions will be the same :( I know it's meaningless, but as my first app it's acceptable. <br>
+Looking forward to making better and complex apps in the coming future! 
 
 
 ## Some screenshots
