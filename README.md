@@ -2,8 +2,8 @@
 My first ever app "QuizLand" made with Flutter &amp; Dart. <br>
 Inspired and supported by a Udemy course, I managed to learn some Flutter basics and create this very simple app.
 
-The quiz contains only questions about some country capitals, one you finish answering you'll receive a feedback sentence based on your score <br>
-Then you can restart the quiz, but the questions will be always the same :( I know it's meaningless, but as my first app it's acceptable. <br>
+The quiz contains questions about some country capitals, once you finish answering you'll receive a feedback sentence based on your score. <br>
+Then you can restart the quiz, but the questions will repeat themselves :( I know it's pretty meaningless, but as my first try it's acceptable. <br>
 Looking forward to making better and complex apps in the coming future! 
 
 
